@@ -1,5 +1,5 @@
 const sentence = 'hello there from lighthouse labs';
-// instead of console.log so each char does NOT print on a new line
+// instead of console.log, use process.stdout.write so each char does NOT print on a new line
 
 let delay = 0;
 
